@@ -1,2 +1,2 @@
 # Java
-Data stack digunakan untuk melakukan input, ambil data dan cetak data
+Ini adalah kumpulan soource code tugas - tugas kuliah yang sudah saya gunakan berupa java 
